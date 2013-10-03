@@ -1,6 +1,6 @@
 {
 	"name": "Martimiz/silverstripe-togglecompositestatefield",
-	"description": "CompositStateField that remembers its state (open/close) after save/publish/pagechange",
+	"description": "CompositStateField that remembers its state (open/close) after save, publish and pagechange",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "CompositStateField", "cms"],
 	"homepage": "https://github.com/Martimiz/silverstripe-togglecompositestatefield",
@@ -10,3 +10,4 @@
 		"email": "martine@balbus.nl"
 	}]
 }
+	
