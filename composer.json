@@ -8,8 +8,5 @@
 	"authors": [{
 		"name": "Martine Bloem",
 		"email": "martine@balbus.nl"
-	}],
-	"require": {
-		"silverstripe/framework": "~3.0"
-	}
+	}]
 }
