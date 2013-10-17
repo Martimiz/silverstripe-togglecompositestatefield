@@ -5,9 +5,21 @@
 	"keywords": ["silverstripe", "CompositStateField", "cms"],
 	"homepage": "https://github.com/Martimiz/silverstripe-togglecompositestatefield",
 	"license": "BSD",
-	"authors": [{
-		"name": "Martine Bloem",
-		"email": "martimiz@gmail.com"
-	}]
+	"authors": [
+		{
+			"name": "Martine Bloem (Martimiz)",
+			"email": "martimiz@gmail.com"
+		}
+	],
+	"require":
+	{
+		"php": ">=5.3.2",
+		"silverstripe/framework": ">=3.1",
+		"silverstripe/cms": ">=3.1",
+	},
+	"support": 
+	{
+		"issues": "https://github.com/Martimiz/silverstripe-togglecompositestatefield/issues?state=open"
+	}
 }
 	
