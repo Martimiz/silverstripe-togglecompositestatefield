@@ -29,4 +29,4 @@ a page in the CMS, the field will remember its state (open/closed).
 
 ## Maintainer contact
 
-* Martine Bloem (Martimiz) `martine[at]balbus[dot]nl` 
+* Martine Bloem (Martimiz)
